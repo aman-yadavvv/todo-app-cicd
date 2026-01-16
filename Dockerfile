@@ -1,7 +1,4 @@
 
-
-
-
 FROM python:3-alpine3.22
 
 RUN pip install Django
